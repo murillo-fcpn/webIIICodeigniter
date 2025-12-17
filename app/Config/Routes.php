@@ -14,7 +14,7 @@ $routes->resource('customers', ['controller' => 'CustomersController']);
 $routes->resource('projects', ['controller' => 'ProjectsController']);
 
 // Tasks
-// $routes->resource('tasks', ['controller' => 'TasksController']);
+$routes->resource('tasks', ['controller' => 'TasksController']);
 
 // Página de inicio
 // $routes->get('/', 'Home::index');
