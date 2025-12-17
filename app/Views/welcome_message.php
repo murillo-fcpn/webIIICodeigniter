@@ -8,8 +8,7 @@
     <ul class="list-unstyled">
         <li>Eidan Leonel Condori Villca</li>
         <li>Israel Elias Murillo Flores</li>
-        <li>Diego</li>
-        <li>Valentina</li>
+        <li>Marioly Giselle Tolay Candia</li>
     </ul>
     <p class="mt-4 text-muted">Fecha: <?= date('Y-m-d') ?> </p>
 </div>
